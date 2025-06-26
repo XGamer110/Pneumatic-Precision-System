@@ -6,7 +6,7 @@ While technically classified as an air rifle, this system was developed to explo
 
 ## ⚠️ Legal & Ethical Use Disclaimer
 
-This project, the Pneumatic Precision System (PPS), is intended strictly for **legal and responsible use**. It was developed for the purpose of **target practice** and **controlled pest management**, specifically for the humane removal of nuisance squirrels that have caused repeated and significant damage to crops and garden property on **privately owned land**.
+This project is intended strictly for **legal and responsible use**. It was developed for the purpose of **target practice** and **controlled pest management**, specifically for the humane removal of nuisance squirrels that have caused repeated and significant damage to crops and garden property on **privately owned land**.
 
 All testing and operation of this device are conducted in accordance with local, state, and federal laws. It is the responsibility of the user to ensure compliance with applicable regulations in their area. This project is not intended for harm, intimidation, or use against people or animals outside of legally justified and regulated contexts (e.g., pest control exemptions where permitted).
 
