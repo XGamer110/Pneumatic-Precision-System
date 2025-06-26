@@ -4,6 +4,10 @@ This Pneumatic Precision System (PPS) is a homemade high performance **air rifle
 
 While technically classified as an air rifle, this system was developed to explore the physics of pneumatic propulsion, motion dynamics, and energy transfer, using off shelf parts and hand built and designed components. The project demonstrates a functional and efficient method for delivering consistent shots of 3D printed pellets, in which were extensively researched, mathematically modeled, carefully refined to maximize aerodynamic stability, and consistent flight performance under such conditions. All construction and usage of this device are conducted with safety and legality as top priorities.
 
+## Current Progress Point
+![Current Progress Point of Air Rifle MK1](https://github.com/user-attachments/assets/1194bce0-dc36-4e61-8b50-a3a5a48b2de6)
+
+
 
 ## Bill of Materials (BOM)
 
