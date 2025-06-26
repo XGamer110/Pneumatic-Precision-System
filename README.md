@@ -4,6 +4,13 @@ This Pneumatic Precision System (PPS) is a homemade high performance **air rifle
 
 While technically classified as an air rifle, this system was developed to explore the physics of pneumatic propulsion, motion dynamics, and energy transfer, using off shelf parts and hand built and designed components. The project demonstrates a functional and efficient method for delivering consistent shots of 3D printed pellets, in which were extensively researched, mathematically modeled, carefully refined to maximize aerodynamic stability, and consistent flight performance under such conditions. All construction and usage of this device are conducted with safety and legality as top priorities.
 
+## ⚠️ Legal & Ethical Use Disclaimer
+
+This project, the Pneumatic Precision System (PPS), is intended strictly for **legal and responsible use**. It was developed for the purpose of **target practice** and **controlled pest management**, specifically for the humane removal of nuisance squirrels that have caused repeated and significant damage to crops and garden property on **privately owned land**.
+
+All testing and operation of this device are conducted in accordance with local, state, and federal laws. It is the responsibility of the user to ensure compliance with applicable regulations in their area. This project is not intended for harm, intimidation, or use against people or animals outside of legally justified and regulated contexts (e.g., pest control exemptions where permitted).
+
+
 ## Current Progress Point
 ![Current Progress Point of Air Rifle MK1](https://github.com/user-attachments/assets/1194bce0-dc36-4e61-8b50-a3a5a48b2de6)
 
