@@ -1,4 +1,4 @@
-# Pneumatic Precision System (PPS)
+# Pneumatic Precision System (PPS-MK1)
 
 This Pneumatic Precision System (PPS) is a homemade high performance **air rifle** designed for controlled projectile launching using compressed air at up to 100 PSI. Built from scratch as a personal engineering project, this PPS achieves a calculated muzzle velocity that exceeds 450 FPS, making it suitable for precision target practice and responsible small game pest control on private land.
 
