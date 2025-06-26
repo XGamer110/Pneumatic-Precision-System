@@ -6,6 +6,15 @@ While technically classified as an air rifle, this system was developed to explo
 
 
 ## Bill of Materials (BOM)
-- 
-- 
--  
+
+| Name                       | Description                                      | Link     | Price   |
+|----------------------------|--------------------------------------------------|----------|---------|
+| High Pressure Solenoid Valve | Main air release mechanism for firing            | [Link](https://www.amazon.com/gp/product/B085FYTHPY/ref=ox_sc_act_title_1?smid=A37DFQ476WZ5XM&th=1) | $28.00  |
+| QEV (Quick Exhaust Valve)   | Enhances air discharge speed and firing response | [Link](https://www.amazon.com/gp/product/B01D74BG9E/ref=ox_sc_act_title_2?smid=A3HMB6GLG0WJ17&psc=1) | $18.00  |
+| 3-9x40 Scope                | Adjustable zoom scope for precision targeting     | [Link](https://www.amazon.com/gp/product/B0D9VW8WVK/ref=ox_sc_act_title_26?smid=A1YH2NUXMYXXT5&th=1) | $27.00  |
+| Pump with Gauge             | Hand pump with integrated pressure gauge         | [Link](https://www.amazon.com/gp/product/B0DBV4R37H/ref=ox_sc_act_title_27?smid=A2TDE4PBWMYM6J&th=1) | $15.00  |
+| High Pressure PVC Pipe Caps | Seals pressure chamber safely                    | [Link](https://www.amazon.com/gp/product/B0D54BZ16K/ref=ox_sc_act_title_24?smid=A3OW1LX203RENF&th=1) | $8.00   |
+| 1/2" Adapter                | Connects components within the air system        | [Link](https://www.amazon.com/gp/product/B07VXX26FG/ref=ox_sc_act_title_4?smid=AFRGIF310N2Z7&th=1) | $9.00   |
+| Polycarbonate (PC) Filament | High-strength filament for custom parts          | [Link](https://www.amazon.com/gp/product/B0DSHYXMNV/ref=ox_sc_act_title_5?smid=A2WWHQ25ENKVJ1&th=1) | $29.00  |
+| High Pressure Epoxy         | Bonds and seals pressure-rated components        | [Link](https://www.amazon.com/gp/product/B0CTB8GHYP/ref=ox_sc_act_title_25?smid=ATVPDKIKX0DER&th=1) | $15.00  |
+| **Total**                   |                                                  |          | **$149.00** |
