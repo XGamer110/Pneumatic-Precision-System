@@ -36,3 +36,5 @@ Basic Solenoid Electronics - Designed for the solenoid valve to open for 200ms t
 | Polycarbonate (PC) Filament | High-strength filament for custom parts          | [Link](https://www.amazon.com/gp/product/B0DSHYXMNV/ref=ox_sc_act_title_5?smid=A2WWHQ25ENKVJ1&th=1) | $29.00  |
 | High Pressure Epoxy         | Bonds and seals pressure-rated components        | [Link](https://www.amazon.com/gp/product/B0CTB8GHYP/ref=ox_sc_act_title_25?smid=ATVPDKIKX0DER&th=1) | $15.00  |
 | **Total**                   |                                                  |          | **$149.00** |
+
+ ## TOTAL COST (Including Shipping and tax) - **$160**
