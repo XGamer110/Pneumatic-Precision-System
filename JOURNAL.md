@@ -13,7 +13,6 @@ Designed and printed more components, some are permenent, some are prototypes.
 
 Completed most of the rear structure, added stuff like the grip, trigger in which uses a 3D printed trigger and momentary button to the circuit and solenoid valve, also cut some aluminum tubes to a good length from grip to buttstock, then printed the stock, and also a pad for the buttstock out of TPU for better comfort, and absorb the minor recoil of the system.
 ![Rear](https://github.com/user-attachments/assets/254bff8c-868a-44c3-9c52-2153daca8dab)
-![Rear](https://github.com/user-attachments/assets/254bff8c-868a-44c3-9c52-2153daca8dab)
 
 ## March 3rd - Present, 2025
 
