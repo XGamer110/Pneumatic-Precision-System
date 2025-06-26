@@ -1,4 +1,4 @@
-## March 28th - 3rd, 2025
+## March 28th - April 3rd, 2025
 Started to come up with ideas of how I should design everything, and how everythign should function, including a safe way of powering the Arduino NANO and other electrical components to control the Solenoid Valve.
 ![first sketch](https://github.com/user-attachments/assets/d874db80-838c-4f01-9d63-5c040f64a9f1)
 ![first prototype](https://github.com/user-attachments/assets/23172da3-ec70-4eed-981c-51003b49a6fb)
