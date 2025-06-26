@@ -7,6 +7,13 @@ While technically classified as an air rifle, this system was developed to explo
 ## Current Progress Point
 ![Current Progress Point of Air Rifle MK1](https://github.com/user-attachments/assets/1194bce0-dc36-4e61-8b50-a3a5a48b2de6)
 
+## Images of Build
+![Rear](https://github.com/user-attachments/assets/cc126ef9-4473-428c-b92c-76cc7a255a9c)
+![Perfected 3D Printed Pellets](https://github.com/user-attachments/assets/449d6169-3c1c-4a03-8dc5-413c9ec646e8)
+![Bipod Extended](https://github.com/user-attachments/assets/1058d225-81bf-47e2-8c24-4db929fe2229)
+
+![Air Rifle MK1 Electronics](https://github.com/user-attachments/assets/36ab3811-ea1e-4977-805d-5af4c8d2b163)
+Basic Solenoid Electronics - Designed for the solenoid valve to open for 200ms to fill up the QEV, close, then rapidly release the pressure in one **very** quick burst, propelling the projectile at 450+ FPS.
 
 
 ## Bill of Materials (BOM)
