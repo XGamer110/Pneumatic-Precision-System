@@ -1,7 +1,7 @@
 ---
 title: Pnuematic Precision System (PPS-MK1)
 author: Erik Cruz
-description: A precision system designed to humanely dispatch squirrels on private property who are destroying my property and my garden, all done legally and ethiclly
+description: A precision system designed to humanely dispatch squirrels on private property who are destroying my property and my garden, all done legally and ethically.
 created_at: 2025-3-28
 ---
 
